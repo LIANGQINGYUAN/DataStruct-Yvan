@@ -1,5 +1,5 @@
-# DataStruct-Yvan
-数据结构学习笔记  
+# DataStruct_Notes
+数据结构学习笔记  ,  使用语言为python3
 ## 链表  
 实现时需要注意  
 **1. 链表游标的确定**  
